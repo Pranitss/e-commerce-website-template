@@ -39,13 +39,13 @@ main {
 }
 
 .product, .cart-item {
-    border: 1px solid #ccc;
+    border: 1px solid #efd7d7;
     padding: 10px;
     margin-bottom: 10px;
 }
 
 button {
-    background-color: #28a745;
+    background-color: #8528a7;
     color: white;
     border: none;
     padding: 10px;
@@ -53,5 +53,5 @@ button {
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: #5f2188;
 }
